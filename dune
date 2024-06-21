@@ -1,1 +1,2 @@
-(executables (names berlin delhi))
+(executables (names berlin delhi) (modules athens berlin cairo delhi))
+(library (name exeter) (modules exeter))
